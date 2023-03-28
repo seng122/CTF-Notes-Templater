@@ -5,3 +5,11 @@ For the purposes of taking quick organized notes on CTF/HTB/PG engagements. This
 ### Demo Video
 https://user-images.githubusercontent.com/123990131/228314722-b33441e0-5586-4db5-b784-472cd96a6e5a.mp4
 
+###
+Community Plugins in Use
+- QuickAdd
+- Templater
+- Minimal Theme Settings
+- Dataview
+- Image Toolkit
+- Style Settings
