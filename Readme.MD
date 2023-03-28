@@ -1,4 +1,5 @@
-# CTF Notes Templater using Obisidan Community Plugins
+# CTF Notes Templater
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yatJZr4uIQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Demo Video
+https://user-images.githubusercontent.com/123990131/228311160-b7c45445-f1e8-4d93-a3c4-acfe8a58aedd.mp4
 
