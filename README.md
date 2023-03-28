@@ -13,3 +13,5 @@ Community Plugins in Use
 - Dataview
 - Image Toolkit
 - Style Settings
+- Templater
+- Show Current File Path
